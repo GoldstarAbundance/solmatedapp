@@ -12,14 +12,14 @@ export const Sample = (props: any) => {
         ...globalStyleSheet.mainContainer,
         backgroundColor: colors.primaryBackground,
       }}>
-      <Text
+      {/* <Text
         style={{...globalStyleSheet.titleBold12, color: colors.primaryText}}>
         Hello
       </Text>
       <Text
         style={{...globalStyleSheet.titleBold12, color: colors.primaryText}}>
         Text Font Change
-      </Text>
+      </Text> */}
     </View>
   );
 };
