@@ -1,0 +1,1 @@
+export {Astrology} from './Astrology';

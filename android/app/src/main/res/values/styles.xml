@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:statusBarColor">@color/status_bar_color</item>
+        <item name="android:windowSplashScreenBackground" tools:ignore="NewApi">#000000</item>
+        <item name="android:navigationBarColor">#000000</item>
+
+    </style>
+
+</resources>
