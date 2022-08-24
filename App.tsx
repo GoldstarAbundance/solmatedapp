@@ -14,6 +14,7 @@ import {enableScreens} from 'react-native-screens';
 
 enableScreens(true);
 
+
 const App = () => {
   return (
     <SafeAreaProvider>
